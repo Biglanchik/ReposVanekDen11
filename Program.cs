@@ -8,6 +8,7 @@ namespace ReposVanekDen
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello House!");
+           Console.WriteLine("Hello Heuse!");
         }
     }
 }
